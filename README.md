@@ -16,7 +16,7 @@ The figures below illustrate the Stock Performance in the years 2017 and 2018, a
 ![](Resources/Stock_Performance_2017.PNG)
 
 ##### Stock Performance in 2018
-![](resources/Stock_Performance_2018.PNG)
+![](Resources/Stock_Performance_2018.PNG)
 
 We can see that overall returns were significantly better in 2017 as compared to 2018. In 2017, 11 stocks showed positive percentage returns with 1 showing negative returns; whereas in 2018 only 2 stocks had positive returns with 10 being in negative territory.
 
@@ -32,18 +32,18 @@ The figures below illustrate the execution times for 2017 and 2018, before and a
 
 Execution time reduced by 66.4% after refactoring the code (~0.222 seconds vs ~0.664 seconds).
 
-![](resources/Execution_Times_2017_Before_Refactoring.PNG)
+![](Resources/Execution_Times_2017_Before_Refactoring.PNG)
 
-![](resources/Execution_Times_2017_After_Refactoring.PNG)
+![](Resources/Execution_Times_2017_After_Refactoring.PNG)
 
 
 ####Execution Time Comparison for 2018 Before and After Refactoring
 
 Execution time reduced by 67.0% after refactoring the code (~0.218 seconds vs ~0.664 seconds).
 
-![](resources/Execution_Times_2018_Before_Refactoring.PNG)
+![](Resources/Execution_Times_2018_Before_Refactoring.PNG)
 
-![](resources/Execution_Times_2018_After_Refactoring.PNG)
+![](Resources/Execution_Times_2018_After_Refactoring.PNG)
 
 ### Analysis of execution time improvements
 
@@ -51,11 +51,11 @@ The main reason for the performance improvement and resulting reduced execution 
 
 #### Before Refactoring
 
-![](resources/Two_Loops_Before_Refactoring.PNG)
+![](Resources/Two_Loops_Before_Refactoring.PNG)
 
 #### After Refactoring
 
-![](resources/Single_Loop_After_Refactoring.PNG)
+![](Resources/Single_Loop_After_Refactoring.PNG)
 
 ## Summary
 
