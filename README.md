@@ -13,7 +13,7 @@ This project involves refactoring Visual Basic scripts to achieve faster executi
 The figures below illustrate the Stock Performance in the years 2017 and 2018, after refactoring the existing VBA code.
 
 ##### Stock performance in 2017
-![](resources/Stock_Performance_2017.PNG)
+![](Resources/Stock_Performance_2017.PNG)
 
 ##### Stock Performance in 2018
 ![](resources/Stock_Performance_2018.PNG)
